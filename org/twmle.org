@@ -1,4 +1,20 @@
 
+* pdftotext
+
+pdftotext -f 1 -l 1 -layout 100030_1101.pdf  ../../../100030_1101.txt
+
+pdftotext -f 1 -l 1 -layout -enc UTF-8  100030_1101.pdf  ../../../100030_1101-utf8.txt
+
+
+* pdftohtml
+
+pdftohtml Examples
+
+http://www.ubuntugeek.com/howto-convert-pdf-files-to-html-files.html
+
+pdftohtml -f 1 -l 1 -c 100030_1101.pdf ../../../100030_1101.html
+
+
 * name space 命名
 
 ** official
