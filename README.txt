@@ -1,0 +1,28 @@
+Taiwan Medical Licensing Examination
+
+台灣醫師執照考試
+
+
+
+
+United States Medical Licensing Examination
+
+[[http://en.wikipedia.org/wiki/United_States_Medical_Licensing_Examination]]
+
+
+
+
+美國醫師執照考試
+
+[[http://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E9%86%AB%E5%B8%AB%E5%9F%B7%E7%85%A7%E8%80%83%E8%A9%A6]]
+
+
+歷年考畢試題查詢(含測驗題答案)  
+
+[[http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=156]]
+
+
+
+關鍵字
+類科 醫師
+科目 醫學
