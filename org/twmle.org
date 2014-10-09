@@ -653,4 +653,181 @@ BRCA1-associated breast cancers are often associated with histopathologic featur
 
 
 
-**** 103年 第一次 醫學(三) 103030_1102 47
+**** 103年 第一次 醫學(三) 103030_1102 48
+
+
+48   一位 54 歲男性病人主訴血尿，由膀胱鏡檢及經尿道膀胱腫瘤切除術（transurethral resection of urinary
+     bladder tumor），病理報告為膀胱尿路細胞癌（urothelial carcinoma），侵犯到黏膜下 lamina propria，但
+     整個切片看不到肌肉層組織。下列處置何者最適宜？
+     按表淺層膀胱尿路細胞癌處理
+     按侵犯型膀胱尿路細胞癌處理
+     膀胱切除術
+     找適當時機再做膀胱鏡檢及經尿道膀胱腫瘤刮除術，重新做病理分期
+
+D
+
+****  103年 第一次 醫學(四) 103030_2102
+
+****  103年 第一次 醫學(五) 103030_3102 7
+
+7   一位 25 歲年輕女性，乳房檢查發現左乳外側有一 2.1 公分之腫瘤，粗針切片檢查為浸潤性管道癌（
+    infiltrating ductal carcinoma），腋下無觸摸到淋巴結，其他檢查遠處未轉移，其癌症臨床分期（clinical
+    stage）為下列何者？
+    T1N0M0              T2N0M0                 T1N1M0            T2N1M0
+
+B
+
+T2 	Tumor >20 mm but ≤50 mm in greatest dimension 
+T2a 	Tumor >3 cm but ≤5 cm
+T2b 	Tumor >5 cm but ≤7 cm
+T3 	Tumor >7 cm or any of the following:
+Directly invades any of the following: chest wall, diaphragm, phrenic nerve, mediastinal pleura, parietal pericardium, main bronchus <2 cm from carina (without involvement of carina)
+Atelectasis or obstructive pneumonitis of the entire lung
+Separate tumor nodules in the same lobe
+
+
+****  103年 第一次 醫學(五) 103030_3102 28
+
+
+28   肺癌病人出現惡性肋膜腔積液（malignant pleural effusion），在 TNM 分期中，至少是屬於那一期？
+     ⅡA                     ⅡB                       ⅢA              ⅢB
+
+
+D
+
+M1a 	Separate tumor nodule(s) in a contralateral lobe; tumor with pleural nodules or malignant pleural or pericardial effusion
+
+****  103年 第一次 醫學(五) 103030_3102 44
+
+44   下列何者不是罹患乳癌的危險因子？
+     40 歲懷孕生第一胎小孩
+     帶有 BRCA1 基因之變異
+     曾罹患乳房纖維腺瘤（fibroadenoma）
+     乳腺非典型性管道增生（atypical ductal hyperplasia）
+
+C
+
+****  103年 第一次 醫學(五) 103030_3102 45
+
+45   有關 fine needle aspiration cytology（FNAC），下列敘述何者錯誤？
+     FNAC 可能有偽陽性
+     FNAC 可能有偽陰性
+     FNAC 無法分辨 in situ（non-invasive）cancer 與 invasive cancer
+     FNAC 結果為陽性且乳房 X 光攝影為 BI-RADS category 4 以上，即可確診為乳癌並切除全乳房
+
+D
+
+
+****  103年 第一次 醫學(五) 103030_3102 52
+
+
+52   關於肛門上皮樣細胞癌（anal epidermoid carcinoma）的敘述，下列何者錯誤？
+     其細胞種類不同於直腸癌（rectal cancer）
+     放射線治療合併化學治療（chemoradiation）是主要治療
+     腹部會陰聯合切除術（abdominoperineal resection）是轉移性病況（metastatic disease）時的治療首選
+     鼠蹊部淋巴腺是可能的轉移位置，且發生此處轉移時，通常患者的預後較為不好
+
+BC
+
+****  103年 第一次 醫學(五) 103030_3102 67
+
+
+67   下列何者不是腎臟癌之腫瘤伴隨症候群（paraneoplastic syndromes）？
+     紅血球增多症（erythrocytosis）                    低血鈣症（hypocalcemia）
+     高血壓                                       非轉移性肝功能異常（Stauffer’s syndrome）
+
+B
+
+
+****  103年 第一次 醫學(五) 103030_3102 69
+
+
+
+69   一位 50 歲婦女，過去曾因子宮頸癌接受過骨盆腔放射線治療，最近三年有頻尿、急尿及膀胱脹尿時
+     疼痛的症狀，但排尿後疼痛可以減輕。尿液檢查並沒有白血球或紅血球增加，病人也沒有尿液滲漏
+     的現象，排尿量約 100 毫升，沒有殘尿。請問她最可能的診斷為：
+     間質性膀胱炎              放射性膀胱炎               膀胱過動症                 細菌性膀胱炎
+
+B
+
+****  103年 第一次 醫學(五) 103030_3102 79
+
+79   某癌症病人手術後本來還算穩定，但卻疑似因為護理人員打錯了藥物，導致病人死亡，如果你是主
+     治醫師，最不宜採取下列那一項措施？
+     向病人安全委員會通報                      通知護理部進行根本原因分析
+     妥善跟病人家屬解釋及溝通                    為保護護理同仁協助掩蓋真相
+
+D
+
+****  103年 第一次 醫學(五) 103030_3102 80
+
+
+80   80 歲的陳老先生身體一向硬朗，行動自如、心智正常，最近經確診得到攝護腺癌，而且已經有骨轉
+     移，泌尿科醫師建議進行手術及睪丸摘除，經向陳老先生解釋，陳老先生願意接受手術但拒絕摘除
+     睪丸。陳老先生的兒子跟主治醫師要求手術麻醉後就一併摘除睪丸，反正陳老先生年紀也大了，留
+     著睪丸用處不大，手術後他自然就會接受。主治醫師應該照著做嗎？
+     應該，因為子女可以代為決定
+     應該，因為對病情控制有幫助
+     不應該，因為陳老先生的自主權應受到尊重
+     不應該，因為陳老先生的兒子沒有簽手術同意書
+
+C
+
+
+****  103年 第一次 醫學(六) 103030_4102 49
+
+
+
+49   關於人類乳突病毒和子宮頸癌的關係，下列敘述何者錯誤？
+
+     約 70%子宮頸癌病人之腫瘤內可以驗出第 16 型或第 18 型人類乳突病毒
+
+     子宮頸癌最常見的人類乳突病毒為第 18 型
+
+     人類乳突病毒透過其 E6 protein、E7 protein 和子宮頸癌上皮細胞之 p53 protein、Rb protein 分別作
+
+       用，而引起細胞增生進而癌化
+
+     人類乳突病毒為環形 DNA 病毒
+
+B
+
+****  103年 第一次 醫學(六) 103030_4102 50
+
+50   有關第一型子宮內膜癌（type I endometrial cancer）之敘述，下列何者最不適當？
+
+     常與雌激素過度刺激有關                          病人多為停經前後（perimenopausal）的女性
+
+     病理形態多為 low grade endometrioid type   預後通常比第二型子宮內膜癌差
+
+D
+
+
+****  103年 第一次 醫學(六) 103030_4102 52
+
+52   李太太，今年 57 歲，過去無特殊內科病史。因腹脹 2 個月、食慾不振來院求診。於急診室發現病人
+
+     有大量腹水，抽取腹水後發現有腺癌細胞。下列那一項腫瘤指標較不具臨床意義？
+
+     CEA                CA125            SCC              CA19-9
+
+C
+
+****  103年 第一次 醫學(六) 103030_4102
+
+53   承上題，後經一系列檢查，臨床上高度懷疑是卵巢惡性腫瘤，並進一步安排剖腹探查手術。於術中
+
+     冷凍切片證實為右側卵巢黏液性惡性腫瘤後，實施婦癌分期手術（surgical staging）。下列何種器官
+
+     的摘除不包含在此項手術中？
+
+     雙側卵巢輸卵管            雙側骨盆腔淋巴結         雙側腹股溝淋巴結         腹主動脈旁淋巴結
+
+C
+
+
+****  103年 第一次 醫學(六) 103030_4102 52
+
+
+****  103年 第一次 醫學(六) 103030_4102 52
+****  103年 第一次 醫學(六) 103030_4102 52
