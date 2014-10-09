@@ -320,11 +320,11 @@ http://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E8%80%83%E8%A9
 
 **** 103年 第二次 醫學(一) 103100_1101 7
 
-7   下嘴唇（lower lip）中央部的鱗狀細胞瘤（squamous cell carcinoma）最可能經由下列何者進行轉移？
-      頦下淋巴結（submental lymph node）                 下頜下淋巴結（submandibular lymph node）
-      耳下腺淋巴結（parotid lymph node）                  頰淋巴結（buccal lymph node）
-
-A
+     7   下嘴唇（lower lip）中央部的鱗狀細胞瘤（squamous cell carcinoma）最可能經由下列何者進行轉移？
+     頦下淋巴結（submental lymph node）                 下頜下淋巴結（submandibular lymph node）
+     耳下腺淋巴結（parotid lymph node）                  頰淋巴結（buccal lymph node）
+     
+     A
 
 
 **** 103年 第二次 醫學(二) 103030_2101 
